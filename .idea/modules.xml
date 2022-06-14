@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ColetaFacil/ColetaFacil.iml" filepath="$PROJECT_DIR$/ColetaFacil/ColetaFacil.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/ColetaFacilAPI.iml" filepath="$PROJECT_DIR$/.idea/ColetaFacilAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ColetaFacil.iml" filepath="$PROJECT_DIR$/ColetaFacil.iml" />
     </modules>
   </component>
 </project>
